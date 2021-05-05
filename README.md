@@ -13,3 +13,5 @@
 [6. Hangman Game](https://github.com/ramishtaha/Hangman_Game)
 
 [7. Ceaser Cypher](https://github.com/ramishtaha/Ceaser_Cypher)
+
+[8. Secret Auction](https://github.com/ramishtaha/Secret_Auction)
