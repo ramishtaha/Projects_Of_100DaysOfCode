@@ -15,3 +15,5 @@
 [7. Ceaser Cypher](https://github.com/ramishtaha/Ceaser_Cypher)
 
 [8. Secret Auction](https://github.com/ramishtaha/Secret_Auction)
+
+[9. Calculator](https://github.com/ramishtaha/Calculator)
