@@ -22,4 +22,7 @@
 
 [11. Guess the Number](https://github.com/ramishtaha/Guess_the_Number)
 
+[12. Coffee Machine](https://github.com/ramishtaha/Coffee_Machine)
+
+
 
