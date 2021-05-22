@@ -22,7 +22,15 @@
 
 [11. Guess the Number](https://github.com/ramishtaha/Guess_the_Number)
 
-[12. Coffee Machine](https://github.com/ramishtaha/Coffee_Machine)
+[12. Higher_Lower_game](https://github.com/ramishtaha/Higher_Lower_Game)
 
+[13. Coffee Machine](https://github.com/ramishtaha/Coffee_Machine)
 
+[14. Trivia](https://github.com/ramishtaha/Trivia)
+
+[15. Hirst Spot Painting](https://github.com/ramishtaha/Hirst_Spot_Painting)
+
+[16. Always Loose Rock Paper Scissors](https://github.com/ramishtaha/Always_Loose_Rock_Paper_Scissors)
+
+[17. Visualise Tower of Hanoi](https://github.com/ramishtaha/Visualise_Tower_of_Hanoi)
 
